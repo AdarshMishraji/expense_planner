@@ -47,7 +47,6 @@ class _AddTransactionState extends State<AddTransaction> {
   @override
   Widget build(BuildContext context) {
     return Column(
-      // mainAxisSize: MainAxisSize.max,
       crossAxisAlignment: CrossAxisAlignment.end,
       children: [
         TextField(
